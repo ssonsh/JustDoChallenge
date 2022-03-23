@@ -1,4 +1,4 @@
-# JustDoChallenge
+# JustDoChallenge - 2022
 
 나를 바꾸는 습관 만들기 :)
 
