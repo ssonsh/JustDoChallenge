@@ -2,6 +2,9 @@
 
 **나를 바꾸는 습관 만들기 :)**
 
+- https://www.youtube.com/watch?v=B9LIYb3BIQ8
+
+
 올해 2022년 꾸준한 습관으로 가져갈 JUST DO Challenge는 두가지!
 1. Github 1 일 1 Commit
 2. 자기 전 30분 책 읽기
